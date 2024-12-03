@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Alejandro
+
+# I'm a WEB Developer student at IES Francisco Ayala.
+
+# I am a front-end and back-end programming enthusiast, especially JavaScript and PHP.
+
 
 <!--
 **alexx-cb/alexx-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
