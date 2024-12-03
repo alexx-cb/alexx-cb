@@ -1,8 +1,6 @@
-## Hi, I'm Alejandro
+# Hi, I'm Alejandro
 
-# I'm a WEB Developer student at IES Francisco Ayala.
-
-# I am a front-end and back-end programming enthusiast, especially JavaScript and PHP.
+## I'm a WEB Developer student at IES Francisco Ayala. I am a front-end and back-end programming enthusiast, especially JavaScript and PHP.
 
 
 <!--
