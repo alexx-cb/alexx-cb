@@ -20,7 +20,6 @@ Me apasiona crear soluciones eficientes, escalables y bien estructuradas, con es
 
 ## 📄 Mi CV
 
-> 👇 Haz clic para ver mi currículum vitae actualizado
 
 [![Ver CV](https://img.shields.io/badge/📄%20Ver%20CV-6E40C9?style=for-the-badge&logoColor=white)](https://github.com/alexx-cb/alexx-cb/raw/main/CV_Alejandro_Cabrera.pdf)
 
